@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+Hi I'm Edward, welcome to my GitHub page
+
+I like sushi, ramen, and bubble tea!
+I ike hackathons too :)
+
+Hahahaha.
+Welcome to intro to Git.
+
+nwPlus is cool!
